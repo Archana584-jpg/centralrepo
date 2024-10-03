@@ -1,0 +1,1 @@
+echo "WhatsApp buddy v7"
