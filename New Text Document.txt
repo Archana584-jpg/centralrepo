@@ -1,1 +1,1 @@
-echo "WhatsApp buddy v7"
+echo "WhatsApp buddy v88"
